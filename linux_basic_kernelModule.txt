@@ -1,0 +1,6 @@
+https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf
+
+
+https://bootlin.com/doc/legacy/accessing-hardware/accessing-hardware.pdf
+
+https:/bootlin.com/doc/training/embedded-linux/embedded-linux-slides.pdf
